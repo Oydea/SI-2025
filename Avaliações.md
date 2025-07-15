@@ -8,9 +8,10 @@
 - [x] AED1 - Prova 2 - 10/07
 
 # 2º bimestre
-- [ ] Discreta - Prova - 11/07
-- [ ] Sistemas - Prova - 15/07
+- [x] Discreta - Prova, Lista - 11/07
+- [x] Sistemas - Prova - 15/07
 - [ ] Economia - Prova, Lista - 21/07
+- [ ] Discreta - Trabalho - (?)
 
 # Exames
 - [ ] Economia - 31/07
