@@ -10,7 +10,7 @@
 # 2º bimestre
 - [x] Discreta - Prova, Lista - 11/07
 - [x] Sistemas - Prova - 15/07
-- [ ] Economia - Prova, Lista - 21/07
+- [x] Economia - Prova, Lista - 21/07
 - [ ] Discreta - Trabalho - (?)
 
 # Exames
