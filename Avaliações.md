@@ -11,7 +11,7 @@
 - [x] Discreta - Prova, Lista - 11/07
 - [x] Sistemas - Prova - 15/07
 - [x] Economia - Prova, Lista - 21/07
-- [ ] Discreta - Trabalho - (?)
+- [ ] Discreta - Trabalho - 25/07
 
 # Exames
 - [ ] Economia - 31/07
