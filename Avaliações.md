@@ -6,12 +6,14 @@
 - [x] Sistemas - Avaliação - 10/06
 - [x] AED1 - Lista - 03/07
 - [x] AED1 - Prova 2 - 10/07
+- [ ] AED1 - Substitutiva da Prova 2 - ??/??
 
 # 2º bimestre
 - [x] Discreta - Prova, Lista - 11/07
 - [x] Sistemas - Prova - 15/07
 - [x] Economia - Prova, Lista - 21/07
-- [ ] Discreta - Trabalho - 25/07
+- [x] Discreta - Trabalho - 25/07
+- [ ] AED1 - Prova - 21/08
 
 # Exames
 - [ ] Economia - 31/07
