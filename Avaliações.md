@@ -6,16 +6,16 @@
 - [x] Sistemas - Avaliação - 10/06
 - [x] AED1 - Lista - 03/07
 - [x] AED1 - Prova 2 - 10/07
-- [ ] AED1 - Substitutiva da Prova 2 - ??/??
+- [x] AED1 - Substitutiva da Prova 2 - 28/08
 
 # 2º bimestre
 - [x] Discreta - Prova, Lista - 11/07
 - [x] Sistemas - Prova - 15/07
 - [x] Economia - Prova, Lista - 21/07
 - [x] Discreta - Trabalho - 25/07
-- [ ] AED1 - Prova - 21/08
+- [ ] AED1 - Prova - 04/09
 
-# Exames
-- [ ] Economia - 31/07
+# 3º bimestre
+- [ ] IHC - Tarefa - 02/09
 
 ***As datas podem ser alteradas se necessário***
