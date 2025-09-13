@@ -13,9 +13,11 @@
 - [x] Sistemas - Prova - 15/07
 - [x] Economia - Prova, Lista - 21/07
 - [x] Discreta - Trabalho - 25/07
-- [ ] AED1 - Prova - 04/09
+- [x] AED1 - Prova A - 10/09
+- [x] AED1 - Prova B - 11/09
 
 # 3º bimestre
-- [ ] IHC - Tarefa - 02/09
+- [x] IHC - Tarefa - 02/09
+- [ ] Matemática I - Atividade Avaliada - 13/09
 
 ***As datas podem ser alteradas se necessário***
