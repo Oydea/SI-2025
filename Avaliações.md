@@ -18,6 +18,9 @@
 
 # 3º bimestre
 - [x] IHC - Tarefa - 02/09
-- [ ] Matemática I - Atividade Avaliada - 13/09
+- [x] Matemática I - Atividade Avaliada - 13/09
+- [ ] TGA - Prova - 06/10
+- [ ] AED1 - Python no Papel (Teste) - 08/10
+- [ ] Sistemas - Prova ??/??
 
 ***As datas podem ser alteradas se necessário***
