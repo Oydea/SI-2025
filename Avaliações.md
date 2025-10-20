@@ -22,8 +22,10 @@
 - [x] TGA - Prova - 06/10
 - [x] IHC - Prova - 07/10
 - [x] AED1 - Python no Papel (Teste) - 08/10 e 09/10
-- [ ] Sistemas - Prova 14/10
+- [x] Sistemas - Prova 14/10
 - [ ] AED1 - Prova 22/10
 - [ ] Discreta - Prova 24/10
+- [ ] Matemática I - Trabalho - ??/??
+- [ ] Matemática I - Prova - ??/??
 
 ***As datas podem ser alteradas se necessário***
