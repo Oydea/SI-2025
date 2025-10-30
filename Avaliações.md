@@ -21,11 +21,13 @@
 - [x] Matemática I - Atividade Avaliada - 13/09
 - [x] TGA - Prova - 06/10
 - [x] IHC - Prova - 07/10
-- [x] AED1 - Python no Papel (Teste) - 08/10 e 09/10
+- [x] AED1 - Python no Papel (Teste 1) - 08/10
+- [x] AED1 - Python no Papel (Teste 2) - 09/10
 - [x] Sistemas - Prova 14/10
-- [ ] AED1 - Prova 22/10
-- [ ] Discreta - Prova 24/10
-- [ ] Matemática I - Trabalho - ??/??
-- [ ] Matemática I - Prova - ??/??
+- [x] AED1 - Prova 22/10
+- [ ] Discreta - Prova 31/10
+- [ ] Matemática I - Trabalho 1 ("Prova") - 05/11
+- [ ] AED1 - Trabalho - 05/11
+- [ ] Matemática I - Trabalho 2 - ??/??
 
 ***As datas podem ser alteradas se necessário***
