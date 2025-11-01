@@ -1,0 +1,424 @@
+<!DOCTYPE html>
+<html>
+
+  <head>
+    <meta charset='utf-8' />
+    <meta http-equiv="X-UA-Compatible" content="chrome=1" />
+    <meta name="description" content="Python para Desenvolvedores : Este projeto representa o livro Python para Desenvolvedores em um formato mais dinâmico que facilita o aprendizado." />
+
+    <link rel="stylesheet" type="text/css" media="screen" href="stylesheets/stylesheet.css">
+    <link rel="stylesheet" type="text/css" media="screen" href="stylesheets/custom.css">
+
+    <title>Python para Desenvolvedores</title>
+
+    <script>
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+      (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+      m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+      })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+      ga('create', 'UA-37218909-2', 'ricardoduarte.github.io');
+      ga('send', 'pageview');
+    </script>
+  </head>
+
+  <body>
+
+    <!-- HEADER -->
+    <div id="header_wrap" class="outer">
+        <header class="inner">
+          <a id="forkme_banner" href="https://github.com/ricardoduarte/python-para-desenvolvedores">View on GitHub</a>
+
+          <h1 id="project_title">Python para Desenvolvedores</h1>
+          <h2 id="project_tagline">2&ordf; edição, revisada e ampliada.</h2>
+
+            <section id="downloads">
+              <a class="zip_download_link" href="https://github.com/ricardoduarte/python-para-desenvolvedores/zipball/master">Download this project as a .zip file</a>
+              <a class="tar_download_link" href="https://github.com/ricardoduarte/python-para-desenvolvedores/tarball/master">Download this project as a tar.gz file</a>
+            </section>
+        </header>
+    </div>
+
+    <!-- MAIN CONTENT -->
+    <div id="main_content_wrap" class="outer">
+      <section id="main_content" class="inner">
+        <h3>
+            Atualização: 3&ordf; edição do livro Python para Desenvolvedores
+        </h3>
+        <img class="new-book-cover" src="images/capa_pypd_3ed.jpg" />
+        <h4>
+            Em Outubro de 2014, a editora <a href="http://www.novatec.com.br">Novatec</a> lançou uma edição atualizada
+            do livro Python para Desenvolvedores focado em <strong>Python 3 (versão 3.3)</strong>, com conteúdo novo e
+            com todos os exemplos de código atualizados.
+            <br/><br/>
+            É uma excelente opção para quem deseja ter uma cópia física desse ótimo livro. Segue abaixo os links para
+            a compra:
+        </h4>
+        <h4>
+            <ul>
+                <li>
+                    <a href="http://novatec.com.br/livros/pythondesenvolvedores/">Novatec</a>
+                </li>
+                <li>
+                    <a href="http://www.amazon.com.br/Python-Para-Desenvolvedores-Eduardo-Borges/dp/8575224050/ref=sr_1_1?s=books&ie=UTF8&qid=1437157013&sr=1-1&keywords=python+para+desenvolvedores">Amazon</a>
+                </li>
+                <li>
+                    <a href="http://www.saraiva.com.br/python-para-desenvolvedores-aborda-python-33-8306299.html">Saraiva</a>
+                </li>
+                <li>
+                    <a href="http://www.livrariacultura.com.br/p/python-para-desenvolvedores-13100033">Livraria Cultura</a>
+                </li>
+                <li>
+                    <a href="http://www.martinsfontespaulista.com.br/python-para-desenvolvedores-479989.aspx/p?&utm_source=Buscape&utm_medium=ComparadordePrecos&utm_campaign=buscape">Martins Fontes</a>
+                </li>
+            </ul>
+        </h4>
+        <h3>
+            Introdução
+        </h3>
+        <h4>
+            Este livro é voltado para quem já possui conhecimento de programação. Ele aborda assuntos que incluem:
+            criação de interfaces com usuário, computação gráfica, aplicações para internet, sistemas distribuídos,
+            entre outros assuntos.
+        </h4>
+        <div id="TOC">
+            <ol>
+                <li><a href="#prefacio1">Prefácio da 1&ordf; edição</a></li>
+                <li><a href="#prefacio2">Prefácio da 2&ordf; edição</a></li>
+                <li><a href="#conteudo">Conteúdo</a></li>
+                <li><a href="#licenca">Licença</a></li>
+                <li><a href="#agradecimentos">Agradecimentos</a></li>
+                <li><a href="#autor">Sobre o autor</a></li>
+                <li><a href="#livro">Usando o livro</a></li>
+            </ol>
+        </div>
+        <div id="book-cover">
+            <img src="images/capa_python_para_desenvolvedores.jpg" />
+        </div>
+        <h3>
+            <a name="prefacio1" class="anchor" href="#prefacio1">
+                <span class="octicon octicon-link"></span></a>Prefácio da 1&ordf; edição
+        </h3>
+        <p>
+            As linguagens dinâmicas eram vistas no passado apenas como linguagens <em>script</em>, usadas para
+            automatizar pequenas tarefas, porém, com o passar do tempo, elas cresceram, amadureceram e
+            conquistaram seu espaço no mercado, a ponto de chamar a atenção dos grandes fornecedores de
+            tecnologia.
+        </p>
+        <p>
+            Vários fatores contribuíram para esta mudança, tais como a internet, o software de código aberto e as
+            metodologias ágeis de desenvolvimento.
+        </p>
+        <p>
+            A internet viabilizou o compartilhamento de informações de uma forma sem precedentes na história,
+            que tornou possível o crescimento do software de código aberto. As linguagens dinâmicas geralmente
+            são código aberto e compartilham as mesmas funcionalidades e em alguns casos, os mesmos objetivos.
+        </p>
+        <p>
+            A produtividade e expressividade das linguagens dinâmicas se encaixam perfeitamente com as metodologias
+            ágeis, que nasceram do desenvolvimento de software de código aberto e defendem um enfoque mais pragmático
+            no processo de criação e manutenção de software do que as metodologias mais tradicionais.
+        </p>
+        <p>
+            Entre as linguagens dinâmicas, o Python se destaca como uma das mais populares e poderosas. Existe uma
+            comunidade movimentada de usuários da linguagem no mundo, o que se reflete em listas ativas de discussão e
+            muitas ferramentas disponíveis em código aberto.
+        </p>
+        <p>
+            Aprender uma nova linguagem de programação significa aprender a pensar de outra forma. E aprender uma
+            linguagem dinâmica representa uma mudança de paradigma ainda mais forte para aquelas pessoas que passaram
+            anos desenvolvendo em linguagens estáticas.
+        </p>
+
+        <h3>
+            <a name="prefacio2" class="anchor" href="#prefacio2">
+                <span class="octicon octicon-link"></span></a>Prefácio da 2&ordf; edição
+        </h3>
+        <p>
+            Revisada e ampliada, esta edição traz algumas novidades, como a inclusão de vários recursos interessantes
+            que foram incorporados na versão 2.6 do Python.
+        </p>
+        <p>
+            Vários assuntos já abordados na edição anterior foram expandidos, incluindo: orientação a objetos, rotinas
+            matemáticas, interface gráfica, computação gráfica, acesso a bancos de dados e integração com aplicativos
+            de código aberto.
+        </p>
+        <p>
+            Além disso, a formatação passou por algumas mudanças, visando facilitar a leitura em monitores e a impressão.
+        </p>
+        <p>
+            Entretanto, a maior parte das mudanças vieram com a revisão do texto, que agora se tornou compatível com a
+            nova ortografia, tarefa facilitada pelo uso do BrOffice.org e suas ferramentas. Várias partes do texto
+            foram ampliadas, capítulos mudaram de ordem, novos exemplos e diagramas foram acrescentados, com o objetivo
+            de melhorar o encadeamento dos assuntos abordados.
+        </p>
+
+        <h3>
+            <a name="conteudo" class="anchor" href="#conteudo">
+                <span class="octicon octicon-link"></span></a>Conteúdo
+        </h3>
+        <p>
+            Os capítulos abaixo são renderizados através do <a href="http://nbviewer.ipython.org/">nbviewer</a>, eles
+            são somente-leitura e renderizados em tempo real. Para alterar qualquer parte do conteúdo, basta clonar
+            esse projeto no <em>Github</em>.
+        </p>
+
+        <h4>Parte I</h4>
+        <hr />
+        <p>
+            Esta parte trata de conceitos básicos sobre a linguagem de programação Python, incluindo sintaxe, tipos,
+            estruturas de controle, funções e documentação.
+        </p>
+        <ul>
+            <li><a href="http://nbviewer.ipython.org/urls/raw.github.com/ricardoduarte/python-para-desenvolvedores/master/Capitulo1/Capitulo1_Introducao.ipynb">
+                Capítulo 1: Introdução</a></li>
+            <li><a href="http://nbviewer.ipython.org/urls/raw.github.com/ricardoduarte/python-para-desenvolvedores/master/Capitulo2/Capitulo2_Sintaxe.ipynb">
+                Capítulo 2: Sintaxe</a></li>
+            <li><a href="http://nbviewer.ipython.org/urls/raw.github.com/ricardoduarte/python-para-desenvolvedores/master/Capitulo3/Capitulo3_Controle_de_fluxo.ipynb">
+                Capítulo 3: Controle de fluxo</a></li>
+            <li><a href="http://nbviewer.ipython.org/urls/raw.github.com/ricardoduarte/python-para-desenvolvedores/master/Capitulo4/Capitulo4_Lacos.ipynb">
+                Capítulo 4: Laços</a></li>
+            <li><a href="http://nbviewer.ipython.org/urls/raw.github.com/ricardoduarte/python-para-desenvolvedores/master/Capitulo5/Capitulo5_Tipos.ipynb">
+                Capítulo 5: Tipos</a></li>
+            <li><a href="http://nbviewer.ipython.org/urls/raw.github.com/ricardoduarte/python-para-desenvolvedores/master/Capitulo6/Capitulo6_Funcoes.ipynb">
+                Capítulo 6: Funções</a></li>
+            <li><a href="http://nbviewer.ipython.org/urls/raw.github.com/ricardoduarte/python-para-desenvolvedores/master/Capitulo7/Capitulo7_Documentacao.ipynb">
+                Capítulo 7: Documentação</a></li>
+            <li><a href="http://nbviewer.ipython.org/urls/raw.github.com/ricardoduarte/python-para-desenvolvedores/master/ExerciciosI/ExerciciosI.ipynb">
+                Exercícios I</a></li>
+        </ul>
+
+        <h4>Parte II</h4>
+        <hr />
+        <p>
+            Esta parte trata de módulos e pacotes, destacando alguns dos mais relevantes que estão presentes na
+            biblioteca padrão da linguagem, instalação de bibliotecas de terceiros, exceções e introspecção.
+        </p>
+        <ul>
+            <li><a href="http://nbviewer.ipython.org/urls/raw.github.com/ricardoduarte/python-para-desenvolvedores/master/Capitulo8/Capitulo8_Modulos.ipynb">
+                Capítulo 8: Módulos</a></li>
+            <li><a href="http://nbviewer.ipython.org/urls/raw.github.com/ricardoduarte/python-para-desenvolvedores/master/Capitulo9/Capitulo9_Escopo_de_nomes.ipynb">
+                Capítulo 9: Escopo de nomes</a></li>
+            <li><a href="http://nbviewer.ipython.org/urls/raw.github.com/ricardoduarte/python-para-desenvolvedores/master/Capitulo10/Capitulo10_Pacotes.ipynb">
+                Capítulo 10: Pacotes</a></li>
+            <li><a href="http://nbviewer.ipython.org/urls/raw.github.com/ricardoduarte/python-para-desenvolvedores/master/Capitulo11/Capitulo11_Biblioteca_padrao.ipynb">
+                Capítulo 11: Biblioteca padrão</a></li>
+            <li><a href="http://nbviewer.ipython.org/urls/raw.github.com/ricardoduarte/python-para-desenvolvedores/master/Capitulo12/Capitulo12_Bibliotecas_de_terceiros.ipynb">
+                Capítulo 12: Bibliotecas de terceiros</a></li>
+            <li><a href="http://nbviewer.ipython.org/urls/raw.github.com/ricardoduarte/python-para-desenvolvedores/master/Capitulo13/Capitulo13_Excecoes.ipynb">
+                Capítulo 13: Exceções</a></li>
+            <li><a href="http://nbviewer.ipython.org/urls/raw.github.com/ricardoduarte/python-para-desenvolvedores/master/Capitulo14/Capitulo14_Introspeccao.ipynb">
+                Capítulo 14: Introspecção</a></li>
+            <li><a href="http://nbviewer.ipython.org/urls/raw.github.com/ricardoduarte/python-para-desenvolvedores/master/ExerciciosII/ExerciciosII.ipynb">
+                Exercícios II</a></li>
+        </ul>
+
+        <h4>Parte III</h4>
+        <hr />
+        <p>
+            Esta parte é dividida em dois assuntos: geradores, uma tecnologia cada vez mais presente na linguagem, e
+            programação funcional.
+        </p>
+        <ul>
+            <li><a href="http://nbviewer.ipython.org/urls/raw.github.com/ricardoduarte/python-para-desenvolvedores/master/Capitulo15/Capitulo15_Geradores.ipynb">
+                Capítulo 15: Geradores</a></li>
+            <li><a href="http://nbviewer.ipython.org/urls/raw.github.com/ricardoduarte/python-para-desenvolvedores/master/Capitulo16/Capitulo16_Programacao_funcional.ipynb">
+                Capítulo 16: Programação funcional</a></li>
+            <li><a href="http://nbviewer.ipython.org/urls/raw.github.com/ricardoduarte/python-para-desenvolvedores/master/ExerciciosIII/ExerciciosIII.ipynb">
+                Exercícios III</a></li>
+        </ul>
+
+        <h4>Parte IV</h4>
+        <hr />
+        <p>
+            Esta parte se concentra principalmente na orientação a objetos, e também aborda decoradores e testes
+            automatizados.
+        </p>
+        <ul>
+            <li><a href="http://nbviewer.ipython.org/urls/raw.github.com/ricardoduarte/python-para-desenvolvedores/master/Capitulo17/Capitulo17_Decoradores.ipynb">
+                Capítulo 17: Decoradores</a></li>
+            <li><a href="http://nbviewer.ipython.org/urls/raw.github.com/ricardoduarte/python-para-desenvolvedores/master/Capitulo18/Capitulo18_Classes.ipynb">
+                Capítulo 18: Classes</a></li>
+            <li><a href="http://nbviewer.ipython.org/urls/raw.github.com/ricardoduarte/python-para-desenvolvedores/master/Capitulo19/Capitulo19_Heranca_simples.ipynb">
+                Capítulo 19: Herança simples</a></li>
+            <li><a href="http://nbviewer.ipython.org/urls/raw.github.com/ricardoduarte/python-para-desenvolvedores/master/Capitulo20/Capitulo20_Heranca_multipla.ipynb">
+                Capítulo 20: Herança múltipla</a></li>
+            <li><a href="http://nbviewer.ipython.org/urls/raw.github.com/ricardoduarte/python-para-desenvolvedores/master/Capitulo21/Capitulo21_Propriedades.ipynb">
+                Capítulo 21: Propriedades</a></li>
+            <li><a href="http://nbviewer.ipython.org/urls/raw.github.com/ricardoduarte/python-para-desenvolvedores/master/Capitulo22/Capitulo22_Sobrecarga_de_operadores.ipynb">
+                Capítulo 22: Sobrecarga de operadores</a></li>
+            <li><a href="http://nbviewer.ipython.org/urls/raw.github.com/ricardoduarte/python-para-desenvolvedores/master/Capitulo23/Capitulo23_Metaclasses.ipynb">
+                Capítulo 23: Metaclasses</a></li>
+            <li><a href="http://nbviewer.ipython.org/urls/raw.github.com/ricardoduarte/python-para-desenvolvedores/master/Capitulo24/Capitulo24_Decoradores_de_classe.ipynb">
+                Capítulo 24: Decoradores de classe</a></li>
+            <li><a href="http://nbviewer.ipython.org/urls/raw.github.com/ricardoduarte/python-para-desenvolvedores/master/Capitulo25/Capitulo25_Testes_automatizados.ipynb">
+                Capítulo 25: Testes automatizados</a></li>
+            <li><a href="http://nbviewer.ipython.org/urls/raw.github.com/ricardoduarte/python-para-desenvolvedores/master/ExerciciosIV/ExerciciosIV.ipynb">
+                Exercícios IV</a></li>
+        </ul>
+
+        <h4>Parte V</h4>
+        <hr />
+        <p>
+            Esta parte cobre diversas tecnologias que os aplicativos hoje tem a disposição: principalmente para lidar
+            com armazenamento e troca de informações: acesso a banco de dados, persistência, XML e Web. Além desses
+            tópicos, temos o uso de <em>threads</em> e a arquitetura MVC.
+        </p>
+        <ul>
+            <li><a href="http://nbviewer.ipython.org/urls/raw.github.com/ricardoduarte/python-para-desenvolvedores/master/Capitulo26/Capitulo26_Threads.ipynb">
+                Capítulo 26: Threads</a></li>
+            <li><a href="http://nbviewer.ipython.org/urls/raw.github.com/ricardoduarte/python-para-desenvolvedores/master/Capitulo27/Capitulo27_Persistencia.ipynb">
+                Capítulo 27: Persistência</a></li>
+            <li><a href="http://nbviewer.ipython.org/urls/raw.github.com/ricardoduarte/python-para-desenvolvedores/master/Capitulo28/Capitulo28_XML.ipynb">
+                Capítulo 28: XML</a></li>
+            <li><a href="http://nbviewer.ipython.org/urls/raw.github.com/ricardoduarte/python-para-desenvolvedores/master/Capitulo29/Capitulo29_Banco_de_dados.ipynb">
+                Capítulo 29: Banco de dados</a></li>
+            <li><a href="http://nbviewer.ipython.org/urls/raw.github.com/ricardoduarte/python-para-desenvolvedores/master/Capitulo30/Capitulo30_Web.ipynb">
+                Capítulo 30: Web</a></li>
+            <li><a href="http://nbviewer.ipython.org/urls/raw.github.com/ricardoduarte/python-para-desenvolvedores/master/Capitulo31/Capitulo31_MVC.ipynb">
+                Capítulo 31: MVC</a></li>
+            <li><a href="http://nbviewer.ipython.org/urls/raw.github.com/ricardoduarte/python-para-desenvolvedores/master/ExerciciosV/ExerciciosV.ipynb">
+                Exercícios V</a></li>
+        </ul>
+
+        <h4>Parte VI</h4>
+        <hr />
+        <p>
+            Esta parte apresenta algumas funcionalidades dos pacotes NumPy, SciPy e Matplolib, e também de conhecidos
+            <em>toolkits</em> para interfaces gráficas. Além disso, uma breve introdução a computação gráfica e
+            processamento distribuído. E por fim, observações sobre performance no Python e formas de empacotar e
+            distribuir aplicativos.
+        </p>
+        <ul>
+            <li><a href="http://nbviewer.ipython.org/urls/raw.github.com/ricardoduarte/python-para-desenvolvedores/master/Capitulo32/Capitulo32_Processamento_numerico.ipynb">
+                Capítulo 32: Processamento numérico</a></li>
+            <li><a href="http://nbviewer.ipython.org/urls/raw.github.com/ricardoduarte/python-para-desenvolvedores/master/Capitulo33/Capitulo33_Interface_grafica.ipynb">
+                Capítulo 33: Interface gráfica</a></li>
+            <li><a href="http://nbviewer.ipython.org/urls/raw.github.com/ricardoduarte/python-para-desenvolvedores/master/Capitulo34/Capitulo34_Computacao_grafica.ipynb">
+                Capítulo 34: Computação gráfica</a></li>
+            <li><a href="http://nbviewer.ipython.org/urls/raw.github.com/ricardoduarte/python-para-desenvolvedores/master/Capitulo35/Capitulo35_Processamento_de_imagem.ipynb">
+                Capítulo 35: Processamento de imagem</a></li>
+            <li><a href="http://nbviewer.ipython.org/urls/raw.github.com/ricardoduarte/python-para-desenvolvedores/master/Capitulo36/Capitulo36_SVG.ipynb">
+                Capítulo 36: SVG</a></li>
+            <li><a href="http://nbviewer.ipython.org/urls/raw.github.com/ricardoduarte/python-para-desenvolvedores/master/Capitulo37/Capitulo37_Imagens_em_tres_dimensoes.ipynb">
+                Capítulo 37: Imagens em três dimensões</a></li>
+            <li><a href="http://nbviewer.ipython.org/urls/raw.github.com/ricardoduarte/python-para-desenvolvedores/master/Capitulo38/Capitulo38_Processamento_distribuido.ipynb">
+                Capítulo 38: Processamento distribuído</a></li>
+            <li><a href="http://nbviewer.ipython.org/urls/raw.github.com/ricardoduarte/python-para-desenvolvedores/master/Capitulo39/Capitulo39_Performance.ipynb">
+                Capítulo 39: Performance</a></li>
+            <li><a href="http://nbviewer.ipython.org/urls/raw.github.com/ricardoduarte/python-para-desenvolvedores/master/Capitulo40/Capitulo40_Empacotamento_e_distribuicao.ipynb">
+                Capítulo 40: Empacotamento e distribuição</a></li>
+            <li><a href="http://nbviewer.ipython.org/urls/raw.github.com/ricardoduarte/python-para-desenvolvedores/master/ExerciciosVI/ExerciciosVI.ipynb">
+                Exercícios VI</a></li>
+        </ul>
+
+        <h4>Apêndice</h4>
+        <hr />
+        <p>
+            Esta parte se concentra em outras tecnologias que tem de conviver com o Python de diversas formas. E ao
+            final, as respostas dos exercícios propostos nas partes anteriores.
+        </p>
+        <ul>
+            <li><a href="http://nbviewer.ipython.org/urls/raw.github.com/ricardoduarte/python-para-desenvolvedores/master/ApendiceA/ApendiceA.ipynb">
+                Apêndice A: Integração com aplicativos</a></li>
+            <li><a href="http://nbviewer.ipython.org/urls/raw.github.com/ricardoduarte/python-para-desenvolvedores/master/ApendiceB/ApendiceB.ipynb">
+                Apêndice B: Blender</a></li>
+            <li><a href="http://nbviewer.ipython.org/urls/raw.github.com/ricardoduarte/python-para-desenvolvedores/master/ApendiceC/ApendiceC.ipynb">
+                Apêndice C: GIMP</a></li>
+            <li><a href="http://nbviewer.ipython.org/urls/raw.github.com/ricardoduarte/python-para-desenvolvedores/master/ApendiceD/ApendiceD.ipynb">
+                Apêndice D: Inkscape</a></li>
+            <li><a href="http://nbviewer.ipython.org/urls/raw.github.com/ricardoduarte/python-para-desenvolvedores/master/ApendiceE/ApendiceE.ipynb">
+                Apêndice E: BrOffice.org</a></li>
+            <li><a href="http://nbviewer.ipython.org/urls/raw.github.com/ricardoduarte/python-para-desenvolvedores/master/ApendiceF/ApendiceF.ipynb">
+                Apêndice F: Integração com outras linguagens</a></li>
+            <li><a href="http://nbviewer.ipython.org/urls/https://raw.github.com/ricardoduarte/python-para-desenvolvedores/master/ApendiceG/ApendiceG.ipynb">
+                Apêndice G: Integração com .NET</a></li>
+            <li><a href="http://nbviewer.ipython.org/urls/raw.github.com/ricardoduarte/python-para-desenvolvedores/master/RespostasI/RespostasI.ipynb">
+                Respostas dos exercícios I</a></li>
+            <li><a href="http://nbviewer.ipython.org/urls/raw.github.com/ricardoduarte/python-para-desenvolvedores/master/RespostasII/RespostasII.ipynb">
+                Respostas dos exercícios II</a></li>
+            <li><a href="http://nbviewer.ipython.org/urls/raw.github.com/ricardoduarte/python-para-desenvolvedores/master/RespostasIII/RespostasIII.ipynb">
+                Respostas dos exercícios III</a></li>
+            <li><a href="http://nbviewer.ipython.org/urls/raw.github.com/ricardoduarte/python-para-desenvolvedores/master/RespostasIV/RespostasIV.ipynb">
+                Respostas dos exercícios IV</a></li>
+            <li><a href="http://nbviewer.ipython.org/urls/raw.github.com/ricardoduarte/python-para-desenvolvedores/master/RespostasV/RespostasV.ipynb">
+                Respostas dos exercícios V</a></li>
+            <li><a href="http://nbviewer.ipython.org/urls/raw.github.com/ricardoduarte/python-para-desenvolvedores/master/RespostasVI/RespostasVI.ipynb">
+                Respostas dos exercícios VI</a></li>
+        </ul>
+
+        <h3>
+            <a name="licenca" class="anchor" href="#licenca">
+                <span class="octicon octicon-link"></span></a>Licença
+        </h3>
+        <img id="image-cc" src="images/by-nc-sa.png" width="150" height="52"/>
+        <p>
+            Este trabalho está licenciado sob uma licença Creative Commons Atribuição - Uso Não Comercial -
+            Compartilhamento pela mesma licença. Para ver uma cópia dessa licença, visite
+            <a href="http://creativecommons.org/licenses/by-nc-sa/3.0/br/">http://creativecommons.org/licenses/by-nc-sa/3.0/br/</a>
+            ou envie uma carta para Creative Commons, 171 Second Street, Suite 300, San Francisco, California 94105, USA.
+        </p>
+
+        <h3>
+            <a name="agradecimentos" class="anchor" href="#agradecimentos">
+                <span class="octicon octicon-link"></span></a>Agradecimentos
+        </h3>
+        <p>
+            Gostaria de agradecer a minha esposa e aos meus pais, pela paciência que tiveram durante o processo de
+            criação desta obra.
+        </p>
+        <p>
+            Além deles, gostaria de agradecer a todos que apoiaram e ajudaram a divulgar o livro.
+        </p>
+
+        <h3>
+            <a name="autor" class="anchor" href="#autor">
+                <span class="octicon octicon-link"></span></a>Sobre o autor
+        </h3>
+        <p>
+            Luiz Eduardo Borges é engenheiro e analista de sistemas, com pós-graduação em Computação Gráfica pela
+            Universidade do Estado do Rio de Janeiro (UERJ). Atua a quase duas décadas na área de informática, sob
+            diversas formas.
+        </p>
+
+        <h3>
+            <a name="livro" class="anchor" href="#livro">
+                <span class="octicon octicon-link"></span></a>Usando o livro
+        </h3>
+        <p>
+            Este livro pode ser lido de 3 maneiras diferentes:
+            <ol>
+                <li>
+                    A primeira maneira é a mais interativa de todas. Nela você tem de clonar o repositório do livro para
+                    fazer o download de todos os arquivos .ipynb para a sua máquina local. Se você tiver o IPython
+                    instalado, você poderá então visualizar todos os capítulos no seu navegador e rodar os códigos de
+                    exemplo. Esta é uma das melhores maneiras de maximizar o seu aprendizado, porém algumas dependências
+                    terão de ser instaladas na sua máquina.
+                </li>
+                <li>
+                    A segunda maneira é usar o site <a href="http://nbviewer.ipython.org/">nbviewer</a> que apresenta os
+                    <em>IPython Notebooks</em> direto no seu navegador. O conteúdo é atualizado de acordo com as
+                    atualizações do repositório. Para acessar os capítulos, use os links da seção Conteúdo acima.
+                </li>
+                <li>
+                    A terceira maneira é através do download do
+                    <a href="download/python_para_desenvolvedores_2ed.pdf">arquivo PDF do livro</a>. Lembre-se porém que
+                    PDFs são estáticos e portanto não são interativos.
+                </li>
+            </ol>
+        </p>
+      </section>
+    </div>
+
+    <!-- FOOTER  -->
+    <div id="footer_wrap" class="outer">
+      <footer class="inner">
+        <p class="copyright">Este site é mantido por <a href="https://github.com/ricardoduarte">ricardoduarte</a></p>
+        <p>
+            Publicado com <a href="http://pages.github.com">GitHub Pages</a> e
+            <a href="http://nbviewer.ipython.org/">IPython Notebook Viewer</a>
+        </p>
+      </footer>
+    </div>
+  </body>
+</html>
