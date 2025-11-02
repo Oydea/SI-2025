@@ -25,9 +25,10 @@
 - [x] AED1 - Python no Papel (Teste 2) - 09/10
 - [x] Sistemas - Prova 14/10
 - [x] AED1 - Prova 22/10
-- [ ] Discreta - Prova 31/10
+- [x] Discreta - Prova 31/10
 - [ ] Matemática I - Trabalho 1 ("Prova") - 05/11
 - [ ] AED1 - Trabalho - 05/11
+- [ ] IHC - Trabalho - 05/11
 - [ ] Matemática I - Trabalho 2 - ??/??
 
 ***As datas podem ser alteradas se necessário***
