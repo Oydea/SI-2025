@@ -30,8 +30,9 @@
 - [x] IHC - Projeto (fórum) - 10/11
 - [x] Matemática I - Trabalho 1 ("prova") - 12/11
 - [ ] AED1 - Trabalho (compactador) - 19/11
+- [ ] AED1 - Acompanhamento do Trabalho (graphics) - 26/11
 - [ ] AED1 - Prova - 10/12
-- [ ] AED1 - Trabalho (graphics) - ??/??
+- [ ] AED1 - Trabalho (graphics) - 17/12 e 18/12
 - [ ] Matemática I - Trabalho 2 - ??/??
 
 ***As datas podem ser alteradas se necessário***
