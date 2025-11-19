@@ -26,10 +26,12 @@
 - [x] Sistemas - Prova 14/10
 - [x] AED1 - Prova 22/10
 - [x] Discreta - Prova 31/10
-- [ ] IHC - Trabalho - 10/11
-- [ ] IHC - Projeto (fórum) - 10/11
-- [ ] Matemática I - Trabalho 1 ("prova") - 12/11
-- [ ] AED1 - Trabalho - 12/11
+- [x] IHC - Trabalho - 10/11
+- [x] IHC - Projeto (fórum) - 10/11
+- [x] Matemática I - Trabalho 1 ("prova") - 12/11
+- [ ] AED1 - Trabalho (compactador) - 19/11
+- [ ] AED1 - Prova - 10/12
+- [ ] AED1 - Trabalho (graphics) - ??/??
 - [ ] Matemática I - Trabalho 2 - ??/??
 
 ***As datas podem ser alteradas se necessário***
