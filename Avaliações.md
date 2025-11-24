@@ -31,7 +31,7 @@
 - [x] Matemática I - Prova - 12/11
 
 # 4º bimestre
-- [ ] AED1 - Trabalho (compactador) - 19/11
+- [x] AED1 - Trabalho (compactador) - 19/11
 - [ ] AED1 - Acompanhamento do Trabalho (graphics) - 26/11
 - [ ] AED1 - Prova - 10/12
 - [ ] AED1 - Trabalho (graphics) - 17/12 e 18/12
