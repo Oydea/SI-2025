@@ -38,6 +38,7 @@
 - [ ] Discreta - Prova 12/12
 - [ ] IHC - Projetos - 16/12
 - [ ] AED1 - Trabalho (graphics) - 17/12 e 18/12
-- [ ] Matemática I - Trabalho - ??/??
+- [ ] Matemática I - Trabalho - 17/12
+- [ ] Matemática I - Trabalho - 18/12
 
 ***As datas podem ser alteradas se necessário***
