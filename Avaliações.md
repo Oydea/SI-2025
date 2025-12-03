@@ -40,5 +40,6 @@
 - [ ] AED1 - Trabalho (graphics) - 17/12 e 18/12
 - [ ] Matemática I - Trabalho - 17/12
 - [ ] Matemática I - Trabalho - 18/12
+- [ ] Discreta - Questionário (grafos) - 19/12
 
 ***As datas podem ser alteradas se necessário***
