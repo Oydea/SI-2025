@@ -33,13 +33,13 @@
 # 4º bimestre
 - [x] AED1 - Trabalho (compactador) - 19/11
 - [x] AED1 - Acompanhamento do Trabalho (graphics) - 26/11
-- [ ] Sistemas - Prova - 09/12
-- [ ] AED1 - Prova - 10/12
-- [ ] Discreta - Prova 12/12
-- [ ] IHC - Projetos - 16/12
-- [ ] AED1 - Trabalho (graphics) - 17/12 e 18/12
-- [ ] Matemática I - Trabalho - 17/12
-- [ ] Matemática I - Trabalho - 18/12
-- [ ] Discreta - Questionário (grafos) - 19/12
+- [x] Sistemas - Prova - 09/12
+- [x] AED1 - Prova - 10/12
+- [x] Discreta - Prova 12/12
+- [x] IHC - Projetos - 16/12
+- [x] AED1 - Trabalho (graphics) - 17/12 e 18/12
+- [x] Matemática I - Trabalho - 17/12
+- [x] Matemática I - Trabalho - 18/12
+- [x] Discreta - Questionário (grafos) - 19/12
 
 ***As datas podem ser alteradas se necessário***
